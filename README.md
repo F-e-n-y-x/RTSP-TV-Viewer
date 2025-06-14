@@ -32,7 +32,7 @@ Target SDK: 33
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/RTSP_TV_Viewer.git
+git clone https://github.com/F-e-n-y-x/RTSP_TV_Viewer.git
 2️⃣ Open the project in Android Studio
 
 3️⃣ Let Gradle sync (Android Studio will handle dependencies automatically)
