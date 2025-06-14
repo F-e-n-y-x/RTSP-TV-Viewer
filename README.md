@@ -1,7 +1,9 @@
 RTSP TV Viewer
+
 A lightweight, native Android TV app that allows manual RTSP stream entry and playback using ExoPlayer. Designed for Android 9+ TVs, this app is remote-friendly, splash-free, and easy to use even for non-technical users.
 
 🎯 Features
+
 Simple interface: manual RTSP URL entry with persistent storage
 
 Auto-play saved stream on app launch
@@ -24,6 +26,7 @@ Min SDK: 26 (Android 8.0 Oreo)
 Target SDK: 33
 
 🚀 How to build
+
 1️⃣ Clone this repo
 
 bash
