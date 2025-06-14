@@ -15,6 +15,7 @@ Remote-friendly dialog for RTSP input
 Uses ExoPlayer (RTSP extension) for reliable playback
 
 🛠 Tech stack
+
 Kotlin
 
 AndroidX + Fragment + Preference libraries
@@ -55,4 +56,5 @@ Enable installation from unknown sources on your TV
 Install and run — the app will auto-play your saved RTSP URL
 
 ⚡ License
+
 This project is provided as-is for personal and educational use. Feel free to modify or extend for your own setup.
