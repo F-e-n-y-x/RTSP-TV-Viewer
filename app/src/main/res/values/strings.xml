@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RTSP TV Viewer</string>
+
+    <!-- URL dialog -->
+    <string name="enter_rtsp_url">Enter RTSP URL</string>
+    <string name="rtsp_hint">rtsp://your.stream.url</string>
+    <string name="force_tcp">Force TCP transport (more stable, less artifacts)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_url">Enter a valid rtsp:// URL</string>
+
+    <!-- On-screen menu -->
+    <string name="menu_title">Options</string>
+    <string name="change_url">Change URL</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="exit">Exit</string>
+    <string name="hint_open_menu">Press OK / BACK for options</string>
+
+    <!-- Playback status -->
+    <string name="connecting">Connecting…</string>
+    <string name="buffering">Buffering…</string>
+    <string name="stream_ended">Stream ended</string>
+    <string name="reconnecting">Reconnecting… (%1$d/%2$d)</string>
+    <string name="playback_failed">Playback failed: %1$s\nPress OK or BACK for options</string>
+</resources>

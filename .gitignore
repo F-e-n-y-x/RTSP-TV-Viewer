@@ -1,0 +1,21 @@
+# Build output
+*.iml
+.gradle/
+build/
+/app/build/
+captures/
+
+# Local config (machine-specific, must NOT be committed)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.hprof
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keystores / signing (keep private)
+*.jks
+*.keystore
